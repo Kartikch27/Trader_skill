@@ -1,0 +1,772 @@
+{
+ "created_by": "trader-scanner",
+ "created_at": "2026-10-19T14:15:00Z",
+ "mode": "orb",
+ "as_of": "2026-10-19 10:15 ET",
+ "universe": 234,
+ "scanned": 222,
+ "failed": 1,
+ "unconfirmed": 0,
+ "source": "yahoo",
+ "or_minutes": 15,
+ "interval": "5m",
+ "filters": {
+  "min_price": 5.0,
+  "min_volume": 0
+ },
+ "note": "A scan is a list of charts that match a rule, not a list of stocks to buy.",
+ "hits": [
+  {
+   "symbol": "CDNS",
+   "setups": [
+    "orb"
+   ],
+   "price": 326.74,
+   "at": "9:50 AM",
+   "bar_start": "09:45",
+   "bar_index": 3,
+   "or_high": 324.8,
+   "or_low": 321.58,
+   "pct_over": 0.6,
+   "name": "Cadence Design Systems, Inc. - Common Stock",
+   "prev_close": 319.51,
+   "change_pct": 2.26,
+   "volume_so_far": 93076,
+   "price_time": "2026-10-19 9:50 AM ET"
+  },
+  {
+   "symbol": "CLSK",
+   "setups": [
+    "orb"
+   ],
+   "price": 8.81,
+   "at": "9:50 AM",
+   "bar_start": "09:45",
+   "bar_index": 3,
+   "or_high": 8.75,
+   "or_low": 8.53,
+   "pct_over": 0.66,
+   "name": "CleanSpark, Inc. - Common Stock",
+   "prev_close": 8.4,
+   "change_pct": 4.88,
+   "volume_so_far": 2297810,
+   "price_time": "2026-10-19 9:50 AM ET"
+  },
+  {
+   "symbol": "COP",
+   "setups": [
+    "orb"
+   ],
+   "price": 146.54,
+   "at": "9:50 AM",
+   "bar_start": "09:45",
+   "bar_index": 3,
+   "or_high": 146.51,
+   "or_low": 145.18,
+   "pct_over": 0.02,
+   "name": "ConocoPhillips Common Stock",
+   "prev_close": 146.51,
+   "change_pct": 0.02,
+   "volume_so_far": 328269,
+   "price_time": "2026-10-19 9:50 AM ET"
+  },
+  {
+   "symbol": "CVS",
+   "setups": [
+    "orb"
+   ],
+   "price": 92.39,
+   "at": "9:50 AM",
+   "bar_start": "09:45",
+   "bar_index": 3,
+   "or_high": 92.26,
+   "or_low": 91.08,
+   "pct_over": 0.14,
+   "name": "CVS Health Corporation Common Stock",
+   "prev_close": 92.36,
+   "change_pct": 0.03,
+   "volume_so_far": 376089,
+   "price_time": "2026-10-19 9:50 AM ET"
+  },
+  {
+   "symbol": "CVX",
+   "setups": [
+    "orb"
+   ],
+   "price": 225.13,
+   "at": "9:50 AM",
+   "bar_start": "09:45",
+   "bar_index": 3,
+   "or_high": 224.93,
+   "or_low": 223.12,
+   "pct_over": 0.09,
+   "name": "Chevron Corporation Common Stock",
+   "prev_close": 224.99,
+   "change_pct": 0.06,
+   "volume_so_far": 2851036,
+   "price_time": "2026-10-19 9:50 AM ET"
+  },
+  {
+   "symbol": "DVN",
+   "setups": [
+    "orb"
+   ],
+   "price": 50.91,
+   "at": "9:50 AM",
+   "bar_start": "09:45",
+   "bar_index": 3,
+   "or_high": 50.89,
+   "or_low": 50.42,
+   "pct_over": 0.04,
+   "name": "Devon Energy Corporation Common Stock",
+   "prev_close": 50.73,
+   "change_pct": 0.35,
+   "volume_so_far": 480996,
+   "price_time": "2026-10-19 9:50 AM ET"
+  },
+  {
+   "symbol": "EOG",
+   "setups": [
+    "orb"
+   ],
+   "price": 158.55,
+   "at": "9:50 AM",
+   "bar_start": "09:45",
+   "bar_index": 3,
+   "or_high": 158.22,
+   "or_low": 156.79,
+   "pct_over": 0.21,
+   "name": "EOG Resources, Inc. Common Stock",
+   "prev_close": 158.01,
+   "change_pct": 0.34,
+   "volume_so_far": 152373,
+   "price_time": "2026-10-19 9:50 AM ET"
+  },
+  {
+   "symbol": "HLT",
+   "setups": [
+    "orb"
+   ],
+   "price": 344.47,
+   "at": "9:50 AM",
+   "bar_start": "09:45",
+   "bar_index": 3,
+   "or_high": 344.45,
+   "or_low": 341.94,
+   "pct_over": 0.01,
+   "name": "Hilton Worldwide Holdings Inc. Common Stock",
+   "prev_close": 345.12,
+   "change_pct": -0.19,
+   "volume_so_far": 140267,
+   "price_time": "2026-10-19 9:50 AM ET"
+  },
+  {
+   "symbol": "HUM",
+   "setups": [
+    "orb"
+   ],
+   "price": 419.27,
+   "at": "9:50 AM",
+   "bar_start": "09:45",
+   "bar_index": 3,
+   "or_high": 418.21,
+   "or_low": 410.7,
+   "pct_over": 0.25,
+   "name": "Humana Inc. Common Stock",
+   "prev_close": 413.16,
+   "change_pct": 1.48,
+   "volume_so_far": 62683,
+   "price_time": "2026-10-19 9:50 AM ET"
+  },
+  {
+   "symbol": "LRCX",
+   "setups": [
+    "orb"
+   ],
+   "price": 277.42,
+   "at": "9:50 AM",
+   "bar_start": "09:45",
+   "bar_index": 3,
+   "or_high": 276.84,
+   "or_low": 272.52,
+   "pct_over": 0.21,
+   "name": "Lam Research Corporation - Common Stock",
+   "prev_close": 263.94,
+   "change_pct": 5.11,
+   "volume_so_far": 2165383,
+   "price_time": "2026-10-19 9:50 AM ET"
+  },
+  {
+   "symbol": "OXY",
+   "setups": [
+    "orb"
+   ],
+   "price": 62.96,
+   "at": "9:50 AM",
+   "bar_start": "09:45",
+   "bar_index": 3,
+   "or_high": 62.93,
+   "or_low": 62.0,
+   "pct_over": 0.04,
+   "name": "Occidental Petroleum Corporation Common Stock",
+   "prev_close": 62.38,
+   "change_pct": 0.93,
+   "volume_so_far": 947563,
+   "price_time": "2026-10-19 9:50 AM ET"
+  },
+  {
+   "symbol": "UNH",
+   "setups": [
+    "orb"
+   ],
+   "price": 404.88,
+   "at": "9:50 AM",
+   "bar_start": "09:45",
+   "bar_index": 3,
+   "or_high": 404.45,
+   "or_low": 399.2,
+   "pct_over": 0.11,
+   "name": "UnitedHealth Group Incorporated Common Stock (DE)",
+   "prev_close": 401.43,
+   "change_pct": 0.86,
+   "volume_so_far": 438324,
+   "price_time": "2026-10-19 9:50 AM ET"
+  },
+  {
+   "symbol": "V",
+   "setups": [
+    "orb"
+   ],
+   "price": 402.15,
+   "at": "9:50 AM",
+   "bar_start": "09:45",
+   "bar_index": 3,
+   "or_high": 402.0,
+   "or_low": 398.01,
+   "pct_over": 0.04,
+   "name": "Visa Inc.",
+   "prev_close": 402.61,
+   "change_pct": -0.11,
+   "volume_so_far": 374130,
+   "price_time": "2026-10-19 9:50 AM ET"
+  },
+  {
+   "symbol": "XOM",
+   "setups": [
+    "orb"
+   ],
+   "price": 179.1,
+   "at": "9:50 AM",
+   "bar_start": "09:45",
+   "bar_index": 3,
+   "or_high": 179.04,
+   "or_low": 177.23,
+   "pct_over": 0.03,
+   "name": "ExxonMobil Holdings Corporation Common Stock",
+   "prev_close": 178.98,
+   "change_pct": 0.07,
+   "volume_so_far": 822968,
+   "price_time": "2026-10-19 9:50 AM ET"
+  },
+  {
+   "symbol": "CI",
+   "setups": [
+    "orb"
+   ],
+   "price": 301.7,
+   "at": "9:55 AM",
+   "bar_start": "09:50",
+   "bar_index": 4,
+   "or_high": 301.48,
+   "or_low": 298.38,
+   "pct_over": 0.07,
+   "name": "The Cigna Group Common Stock",
+   "prev_close": 302.3,
+   "change_pct": -0.2,
+   "volume_so_far": 53019,
+   "price_time": "2026-10-19 9:55 AM ET"
+  },
+  {
+   "symbol": "ELV",
+   "setups": [
+    "orb"
+   ],
+   "price": 434.8,
+   "at": "9:55 AM",
+   "bar_start": "09:50",
+   "bar_index": 4,
+   "or_high": 432.49,
+   "or_low": 425.0,
+   "pct_over": 0.53,
+   "name": "Elevance Health, Inc. Common Stock",
+   "prev_close": 428.26,
+   "change_pct": 1.53,
+   "volume_so_far": 69455,
+   "price_time": "2026-10-19 9:55 AM ET"
+  },
+  {
+   "symbol": "LLY",
+   "setups": [
+    "orb"
+   ],
+   "price": 1255.0,
+   "at": "9:55 AM",
+   "bar_start": "09:50",
+   "bar_index": 4,
+   "or_high": 1254.99,
+   "or_low": 1240.23,
+   "pct_over": 0.0,
+   "name": "Eli Lilly and Company Common Stock",
+   "prev_close": 1257.03,
+   "change_pct": -0.16,
+   "volume_so_far": 229975,
+   "price_time": "2026-10-19 9:55 AM ET"
+  },
+  {
+   "symbol": "MA",
+   "setups": [
+    "orb"
+   ],
+   "price": 617.42,
+   "at": "9:55 AM",
+   "bar_start": "09:50",
+   "bar_index": 4,
+   "or_high": 616.99,
+   "or_low": 608.59,
+   "pct_over": 0.07,
+   "name": "Mastercard Incorporated Common Stock",
+   "prev_close": 617.42,
+   "change_pct": 0.0,
+   "volume_so_far": 210913,
+   "price_time": "2026-10-19 9:55 AM ET"
+  },
+  {
+   "symbol": "MPC",
+   "setups": [
+    "orb"
+   ],
+   "price": 492.48,
+   "at": "9:55 AM",
+   "bar_start": "09:50",
+   "bar_index": 4,
+   "or_high": 487.62,
+   "or_low": 478.0,
+   "pct_over": 1.0,
+   "name": "Marathon Petroleum Corporation Common Stock",
+   "prev_close": 478.07,
+   "change_pct": 3.01,
+   "volume_so_far": 221619,
+   "price_time": "2026-10-19 9:55 AM ET"
+  },
+  {
+   "symbol": "PEP",
+   "setups": [
+    "orb"
+   ],
+   "price": 132.08,
+   "at": "9:55 AM",
+   "bar_start": "09:50",
+   "bar_index": 4,
+   "or_high": 131.91,
+   "or_low": 130.27,
+   "pct_over": 0.13,
+   "name": "PepsiCo, Inc. - Common Stock",
+   "prev_close": 131.49,
+   "change_pct": 0.45,
+   "volume_so_far": 1870924,
+   "price_time": "2026-10-19 9:55 AM ET"
+  },
+  {
+   "symbol": "PSX",
+   "setups": [
+    "orb"
+   ],
+   "price": 299.01,
+   "at": "9:55 AM",
+   "bar_start": "09:50",
+   "bar_index": 4,
+   "or_high": 298.0,
+   "or_low": 292.03,
+   "pct_over": 0.34,
+   "name": "Phillips 66 Common Stock",
+   "prev_close": 293.17,
+   "change_pct": 1.99,
+   "volume_so_far": 224895,
+   "price_time": "2026-10-19 9:55 AM ET"
+  },
+  {
+   "symbol": "VLO",
+   "setups": [
+    "orb"
+   ],
+   "price": 455.6,
+   "at": "9:55 AM",
+   "bar_start": "09:50",
+   "bar_index": 4,
+   "or_high": 453.0,
+   "or_low": 445.76,
+   "pct_over": 0.57,
+   "name": "Valero Energy Corporation Common Stock",
+   "prev_close": 444.71,
+   "change_pct": 2.45,
+   "volume_so_far": 174259,
+   "price_time": "2026-10-19 9:55 AM ET"
+  },
+  {
+   "symbol": "IBM",
+   "setups": [
+    "orb"
+   ],
+   "price": 233.14,
+   "at": "10:00 AM",
+   "bar_start": "09:55",
+   "bar_index": 5,
+   "or_high": 232.8,
+   "or_low": 229.3,
+   "pct_over": 0.15,
+   "name": "International Business Machines Corporation Common Stock",
+   "prev_close": 232.14,
+   "change_pct": 0.43,
+   "volume_so_far": 444785,
+   "price_time": "2026-10-19 10:00 AM ET"
+  },
+  {
+   "symbol": "MAR",
+   "setups": [
+    "orb"
+   ],
+   "price": 390.66,
+   "at": "10:00 AM",
+   "bar_start": "09:55",
+   "bar_index": 5,
+   "or_high": 390.59,
+   "or_low": 386.96,
+   "pct_over": 0.02,
+   "name": "Marriott International - Class A Common Stock",
+   "prev_close": 388.05,
+   "change_pct": 0.67,
+   "volume_so_far": 76705,
+   "price_time": "2026-10-19 10:00 AM ET"
+  },
+  {
+   "symbol": "TJX",
+   "setups": [
+    "orb"
+   ],
+   "price": 147.13,
+   "at": "10:00 AM",
+   "bar_start": "09:55",
+   "bar_index": 5,
+   "or_high": 147.11,
+   "or_low": 145.4,
+   "pct_over": 0.01,
+   "name": "TJX Companies, Inc. (The) Common Stock",
+   "prev_close": 147.33,
+   "change_pct": -0.14,
+   "volume_so_far": 504128,
+   "price_time": "2026-10-19 10:00 AM ET"
+  },
+  {
+   "symbol": "AAPL",
+   "setups": [
+    "orb"
+   ],
+   "price": 345.51,
+   "at": "10:05 AM",
+   "bar_start": "10:00",
+   "bar_index": 6,
+   "or_high": 344.75,
+   "or_low": 340.11,
+   "pct_over": 0.22,
+   "name": "Apple Inc. - Common Stock",
+   "prev_close": 343.46,
+   "change_pct": 0.6,
+   "volume_so_far": 5863086,
+   "price_time": "2026-10-19 10:05 AM ET"
+  },
+  {
+   "symbol": "AMGN",
+   "setups": [
+    "orb"
+   ],
+   "price": 434.08,
+   "at": "10:10 AM",
+   "bar_start": "10:05",
+   "bar_index": 7,
+   "or_high": 433.14,
+   "or_low": 428.23,
+   "pct_over": 0.22,
+   "name": "Amgen Inc. - Common Stock",
+   "prev_close": 432.49,
+   "change_pct": 0.37,
+   "volume_so_far": 291947,
+   "price_time": "2026-10-19 10:10 AM ET"
+  },
+  {
+   "symbol": "AMZN",
+   "setups": [
+    "orb"
+   ],
+   "price": 258.21,
+   "at": "10:10 AM",
+   "bar_start": "10:05",
+   "bar_index": 7,
+   "or_high": 257.73,
+   "or_low": 255.24,
+   "pct_over": 0.19,
+   "name": "Amazon.com, Inc. - Common Stock",
+   "prev_close": 250.0,
+   "change_pct": 3.28,
+   "volume_so_far": 13741438,
+   "price_time": "2026-10-19 10:10 AM ET"
+  },
+  {
+   "symbol": "DLTR",
+   "setups": [
+    "orb"
+   ],
+   "price": 124.87,
+   "at": "10:10 AM",
+   "bar_start": "10:05",
+   "bar_index": 7,
+   "or_high": 124.82,
+   "or_low": 123.03,
+   "pct_over": 0.04,
+   "name": "Dollar Tree, Inc. - Common Stock",
+   "prev_close": 124.18,
+   "change_pct": 0.56,
+   "volume_so_far": 134079,
+   "price_time": "2026-10-19 10:10 AM ET"
+  },
+  {
+   "symbol": "ZM",
+   "setups": [
+    "orb"
+   ],
+   "price": 95.75,
+   "at": "10:10 AM",
+   "bar_start": "10:05",
+   "bar_index": 7,
+   "or_high": 95.72,
+   "or_low": 94.47,
+   "pct_over": 0.02,
+   "name": "Zoom Communications, Inc. - Class A Common Stock",
+   "prev_close": 94.19,
+   "change_pct": 1.66,
+   "volume_so_far": 263691,
+   "price_time": "2026-10-19 10:10 AM ET"
+  },
+  {
+   "symbol": "CPNG",
+   "setups": [
+    "orb"
+   ],
+   "price": 14.39,
+   "at": "10:15 AM",
+   "bar_start": "10:10",
+   "bar_index": 8,
+   "or_high": 14.38,
+   "or_low": 14.23,
+   "pct_over": 0.07,
+   "name": "Coupang, Inc. Class A Common Stock",
+   "prev_close": 14.27,
+   "change_pct": 0.84,
+   "volume_so_far": 1877531,
+   "price_time": "2026-10-19 10:15 AM ET"
+  },
+  {
+   "symbol": "ISRG",
+   "setups": [
+    "orb"
+   ],
+   "price": 431.58,
+   "at": "10:15 AM",
+   "bar_start": "10:10",
+   "bar_index": 8,
+   "or_high": 431.0,
+   "or_low": 426.7,
+   "pct_over": 0.13,
+   "name": "Intuitive Surgical, Inc. - Common Stock",
+   "prev_close": 426.7,
+   "change_pct": 1.14,
+   "volume_so_far": 600964,
+   "price_time": "2026-10-19 10:15 AM ET"
+  },
+  {
+   "symbol": "MSFT",
+   "setups": [
+    "orb"
+   ],
+   "price": 534.15,
+   "at": "10:15 AM",
+   "bar_start": "10:10",
+   "bar_index": 8,
+   "or_high": 532.63,
+   "or_low": 528.74,
+   "pct_over": 0.28,
+   "name": "Microsoft Corporation - Common Stock",
+   "prev_close": 529.05,
+   "change_pct": 0.96,
+   "volume_so_far": 3078322,
+   "price_time": "2026-10-19 10:15 AM ET"
+  },
+  {
+   "symbol": "PLTR",
+   "setups": [
+    "orb"
+   ],
+   "price": 192.17,
+   "at": "10:15 AM",
+   "bar_start": "10:10",
+   "bar_index": 8,
+   "or_high": 191.88,
+   "or_low": 186.17,
+   "pct_over": 0.15,
+   "name": "Palantir Technologies Inc. - Class A Common Stock",
+   "prev_close": 186.03,
+   "change_pct": 3.3,
+   "volume_so_far": 6206742,
+   "price_time": "2026-10-19 10:15 AM ET"
+  },
+  {
+   "symbol": "PNC",
+   "setups": [
+    "orb"
+   ],
+   "price": 218.3,
+   "at": "10:15 AM",
+   "bar_start": "10:10",
+   "bar_index": 8,
+   "or_high": 217.99,
+   "or_low": 216.18,
+   "pct_over": 0.14,
+   "name": "PNC Financial Services Group, Inc. (The) Common Stock",
+   "prev_close": 217.39,
+   "change_pct": 0.42,
+   "volume_so_far": 184058,
+   "price_time": "2026-10-19 10:15 AM ET"
+  },
+  {
+   "symbol": "RCL",
+   "setups": [
+    "orb"
+   ],
+   "price": 280.99,
+   "at": "10:15 AM",
+   "bar_start": "10:10",
+   "bar_index": 8,
+   "or_high": 279.45,
+   "or_low": 275.78,
+   "pct_over": 0.55,
+   "name": "Royal Caribbean Cruises Ltd. Common Stock",
+   "prev_close": 277.68,
+   "change_pct": 1.19,
+   "volume_so_far": 224385,
+   "price_time": "2026-10-19 10:15 AM ET"
+  },
+  {
+   "symbol": "SNOW",
+   "setups": [
+    "orb"
+   ],
+   "price": 317.08,
+   "at": "10:15 AM",
+   "bar_start": "10:10",
+   "bar_index": 8,
+   "or_high": 316.5,
+   "or_low": 309.8,
+   "pct_over": 0.18,
+   "name": "Snowflake Inc. Common Stock",
+   "prev_close": 306.84,
+   "change_pct": 3.34,
+   "volume_so_far": 1701093,
+   "price_time": "2026-10-19 10:15 AM ET"
+  },
+  {
+   "symbol": "SYK",
+   "setups": [
+    "orb"
+   ],
+   "price": 297.05,
+   "at": "10:15 AM",
+   "bar_start": "10:10",
+   "bar_index": 8,
+   "or_high": 296.64,
+   "or_low": 290.01,
+   "pct_over": 0.14,
+   "name": "Stryker Corporation Common Stock",
+   "prev_close": 294.66,
+   "change_pct": 0.81,
+   "volume_so_far": 270620,
+   "price_time": "2026-10-19 10:15 AM ET"
+  },
+  {
+   "symbol": "TSLA",
+   "setups": [
+    "orb"
+   ],
+   "price": 364.18,
+   "at": "10:15 AM",
+   "bar_start": "10:10",
+   "bar_index": 8,
+   "or_high": 362.18,
+   "or_low": 354.47,
+   "pct_over": 0.55,
+   "name": "Tesla, Inc. - Common Stock",
+   "prev_close": 354.72,
+   "change_pct": 2.67,
+   "volume_so_far": 9961501,
+   "price_time": "2026-10-19 10:15 AM ET"
+  },
+  {
+   "symbol": "VRTX",
+   "setups": [
+    "orb"
+   ],
+   "price": 504.12,
+   "at": "10:15 AM",
+   "bar_start": "10:10",
+   "bar_index": 8,
+   "or_high": 504.02,
+   "or_low": 499.5,
+   "pct_over": 0.02,
+   "name": "Vertex Pharmaceuticals Incorporated - Common Stock",
+   "prev_close": 499.74,
+   "change_pct": 0.88,
+   "volume_so_far": 130793,
+   "price_time": "2026-10-19 10:15 AM ET"
+  },
+  {
+   "symbol": "W",
+   "setups": [
+    "orb"
+   ],
+   "price": 110.46,
+   "at": "10:15 AM",
+   "bar_start": "10:10",
+   "bar_index": 8,
+   "or_high": 110.25,
+   "or_low": 107.58,
+   "pct_over": 0.19,
+   "name": "Wayfair Inc. Class A Common Stock",
+   "prev_close": 107.28,
+   "change_pct": 2.96,
+   "volume_so_far": 222353,
+   "price_time": "2026-10-19 10:15 AM ET"
+  }
+ ],
+ "offline": "wall5m-2026-10-19.json.gz",
+ "counts": {
+  "requested": 234,
+  "fetched": 233,
+  "unusable": 2,
+  "illiquid": 9,
+  "scanned": 222,
+  "candidates": 92,
+  "confirmed": 92,
+  "unconfirmed": 0,
+  "hits": 41
+ },
+ "seconds": 0.0,
+ "data_note": "Real Yahoo 5-minute charts saved by the repository's tests for the reel's 234-ticker wall, scanned at 10:15 AM ET on Mon 2026-10-19."
+}

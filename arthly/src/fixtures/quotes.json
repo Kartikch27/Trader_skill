@@ -1,0 +1,41 @@
+{
+ "source": "Yahoo chart (saved test fixtures)",
+ "quotes": {
+  "AAPL": {
+   "price": 341.27,
+   "prev_close": 340.97,
+   "time": "2026-10-13T20:00:01Z",
+   "name": "Apple Inc. - Common Stock"
+  },
+  "AXP": {
+   "price": 309.84,
+   "prev_close": 311.53,
+   "time": "2026-10-13T20:02:26Z",
+   "name": "American Express Company Common Stock"
+  },
+  "BAC": {
+   "price": 53.96,
+   "prev_close": 54.58,
+   "time": "2026-10-13T20:00:02Z",
+   "name": "Bank of America Corporation Common Stock"
+  },
+  "GOOGL": {
+   "price": 353.78,
+   "prev_close": 352.72,
+   "time": "2026-10-13T20:00:01Z",
+   "name": "Alphabet Inc. - Class A Common Stock"
+  },
+  "KO": {
+   "price": 90.11,
+   "prev_close": 89.79,
+   "time": "2026-10-13T20:00:02Z",
+   "name": "Coca-Cola Company (The) Common Stock"
+  },
+  "TSLA": {
+   "price": 366.475,
+   "prev_close": 354.72,
+   "time": "2026-10-19T14:52:13Z",
+   "name": "Tesla, Inc. - Common Stock"
+  }
+ }
+}

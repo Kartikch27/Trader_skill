@@ -1,0 +1,12 @@
+# upstream tools: clone separately (see README)
+day-trader-skill/
+# local trading state and scan output
+trader/
+# personal Claude Code settings
+.claude/settings.local.json
+# build output
+node_modules/
+dist/
+*.log
+.env
+.env.*
